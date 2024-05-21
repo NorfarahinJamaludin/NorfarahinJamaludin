@@ -54,7 +54,7 @@ BASIC: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&lo
 Working on: ![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
 
 
-<a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>
+<a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>{:target="_blank"}
 
 
 ---
