@@ -5,7 +5,6 @@
 
 😄 Pronouns: ... she/her
 
-
 🌱 I’m currently learning & skills
 
 ---
@@ -29,7 +28,6 @@ BASIC: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&lo
 ---
 
 ## 🎓 Study:
-
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
@@ -38,7 +36,6 @@ BASIC: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&lo
 ---
 
 ## 👩‍🎓 Graduate: 
-
 ![POLITEKNIK UNGKU OMAR](https://img.shields.io/badge/politeknik_ungku_omar-F2C811?style=for-the-badge&logo=politeknik&logoColor=yellow)
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/PUO_Logo.png" title="Politeknik" alt="Politeknik" width="35" height="35"/>&nbsp; 
@@ -53,14 +50,16 @@ BASIC: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&lo
   
 ---
 
-## 🫱🏼‍🫲🏼 I’m looking to collaborate on Portfolio data analyst/ data analysis & project based on data analyst:
-
+## 🫱🏼‍🫲🏼 I’m looking to collaborate on Portfolio data analyst/ data analysis:
 Working on: ![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
+
+
+<a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>
 
 
 ---
 
-##v📫 How to reach me:
+## 📫 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/norfarahin-jamaludin-24b9602a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
