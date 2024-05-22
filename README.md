@@ -1,11 +1,10 @@
-👋 Hi, I’m @NorfarahinJamaludin
+![UseThatKnowledgeForGoodGregoryBrownGIF](https://github.com/NorfarahinJamaludin/NorfarahinJamaludin/assets/159423834/ad6b839f-c788-4479-bc96-5afaa376f90f)👋 Hi, I’m @NorfarahinJamaludin
 --
 
-👀 I’m interested in ... Data Analyst, Data Analysis, Data Analytic
+👀 I’m interested in Data Analyst, Data Analysis, Data Analytic
 
-😄 Pronouns: ... she/her
+😄 Pronouns: she/her
 
-🌱 I’m currently learning & skills
 
 ---
 
@@ -26,8 +25,7 @@
 BASIC: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
-
-## 🎓 Study:
+### 🎓 Study :
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
@@ -35,31 +33,25 @@ BASIC: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&lo
 
 ---
 
-## 👩‍🎓 Graduate: 
-![POLITEKNIK UNGKU OMAR](https://img.shields.io/badge/politeknik_ungku_omar-F2C811?style=for-the-badge&logo=politeknik&logoColor=yellow)
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/PUO_Logo.png" title="Politeknik" alt="Politeknik" width="35" height="35"/>&nbsp; 
-</div> 
+### 👩‍🎓 Graduate University : 
 
-
-![POLITEKNIK UNGKU OMAR](https://img.shields.io/badge/politeknik_ungku_omar-F2C811?style=for-the-badge&logo=politeknik&logoColor=yellow)
-<div id="logo">
-  <a href="https://www.puo.edu.my/webportal/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/PUO_Logo.png" title="Politeknik" alt="Politeknik Logo" width="35" height="35"/>&nbsp; 
-</div>
+<p align="centre">
+      <a href="https://www.puo.edu.my/webportal/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/PUO_Logo.png" title="Politeknik" alt="Politeknik" width="50" height="50" align="left">
+      <a href="https://www.puo.edu.my/webportal/"><img src="https://img.shields.io/badge/politeknik_ungku_omar-F2C811?style=for-the-badge&logo=politeknik&logoColor=yellow" alt="Politeknik" align="centre"></a> 
+      <img src="https://img.shields.io/badge/Course_Diploma_Networking_System-%230056D2.svg?style=for-the-badge&logo=Course&logoColor=white" alt="Politeknik"></a>
   
----
-
-## 🫱🏼‍🫲🏼 I’m looking to collaborate on Portfolio data analyst/ data analysis:
-Working on: ![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
-
-
-<a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>{:target="_blank"}
-
+</p>
 
 ---
 
-## 📫 How to reach me:
+### 🫱🏼‍🫲🏼 I’m looking to collaborate on Portfolio data analyst/ data analysis:
+Working on: ![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About&logoColor=white)
+
+‼️ ${{\color{Red}\Huge{\textsf{  LOOKING\ FOR\ \}}}}\$ ${{\color{Yellow}\Huge{\textsf{  MENTOR\ and\ COACH\ \}}}}\$ ${{\color{Orange}\small{\textsf{  help\ my\ first\ PORTFOLIO\ \}}}}\$‼️
+---
+
+### 📫 Reach me on :
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/norfarahin-jamaludin-24b9602a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -74,28 +66,33 @@ Working on: ![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for
 
 ---
 
-##⚡ Fun fact: ... I love music, I love to discover new things!
+### ⚡ Fun fact : 
+I love music 🎶🎵🎧
+
+I love to discover new things 
+
 
 <!---
 NorfarahinJamaludin/Norfarahin21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## About me
+---
+
+### ⭐ About me
 
 Hi, I'm Farah. Skill or languages I learn
 
-| Languages           |
+| Languages & skill   |
 |---------------------|
 |    SQL              |
 |    Python           |
+|    R Programming    |
 |    EXCEL            |
 |    Tableau          |
-|    R Programming    |
 |    Power Bi         |
+|    C++    |
 
 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/PUO_Logo.png"&logo=PUO_Logo.png&logoColor=white" alt="Politeknik Badge" width="40" height="40"/>&nbsp;
-</div>
+
 
