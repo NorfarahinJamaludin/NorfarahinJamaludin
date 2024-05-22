@@ -1,4 +1,4 @@
-![UseThatKnowledgeForGoodGregoryBrownGIF](https://github.com/NorfarahinJamaludin/NorfarahinJamaludin/assets/159423834/ad6b839f-c788-4479-bc96-5afaa376f90f)👋 Hi, I’m @NorfarahinJamaludin
+👋 Hi, I’m @NorfarahinJamaludin
 --
 
 👀 I’m interested in Data Analyst, Data Analysis, Data Analytic
@@ -71,6 +71,8 @@ I love music 🎶🎵🎧
 
 I love to discover new things 
 
+![UseThatKnowledgeForGoodGregoryBrownGIF](https://github.com/NorfarahinJamaludin/NorfarahinJamaludin/assets/159423834/ad6b839f-c788-4479-bc96-5afaa376f90f)
+![UseThatKnowledgeForGoodGregoryBrownGIF](https://github.com/NorfarahinJamaludin/NorfarahinJamaludin/assets/159423834/ad6b839f-c788-4479-bc96-5afaa376f90f)
 
 <!---
 NorfarahinJamaludin/Norfarahin21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
