@@ -74,7 +74,7 @@ Working on: ![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for
 
 > I love to discover new things 
 
-<img src="https://github.com/NorfarahinJamaludin/NorfarahinJamaludin/assets/159423834/ad6b839f-c788-4479-bc96-5afaa376f90f" width="280" height="250">
+<img src="https://github.com/NorfarahinJamaludin/NorfarahinJamaludin/assets/159423834/ad6b839f-c788-4479-bc96-5afaa376f90f" width="240" height="210">
 
 
 <!---
