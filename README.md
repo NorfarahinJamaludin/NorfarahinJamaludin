@@ -47,7 +47,8 @@ BASIC: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&lo
 ### 🫱🏼‍🫲🏼 I’m looking to collaborate on Portfolio data analyst/ data analysis:
 Working on: ![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About&logoColor=white)
 
-‼️ ${{\color{Red}\Huge{\textsf{  LOOKING\ FOR\ \}}}}\$ ${{\color{Yellow}\Huge{\textsf{  MENTOR\ and\ COACH\ \}}}}\$ ${{\color{Orange}\small{\textsf{  help\ my\ first\ PORTFOLIO\ \}}}}\$‼️
+‼️ ${{\color{Red}\Huge{\textsf{  LOOKING\ FOR\ \}}}}\$ ${{\color{Yellow}\Huge{\textsf{  MENTOR\ and\ COACH\ \}}}}\$ ${{\color{Orange}\Huge{\textsf{  help\ my\ first\ PORTFOLIO\ \}}}}\$‼️
+
 ---
 
 ### 📫 Reach me on :
@@ -67,11 +68,11 @@ Working on: ![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for
 ---
 
 ### ⚡ Fun fact : 
+
 I love music 🎶🎵🎧
 
 I love to discover new things 
 
-![UseThatKnowledgeForGoodGregoryBrownGIF](https://github.com/NorfarahinJamaludin/NorfarahinJamaludin/assets/159423834/ad6b839f-c788-4479-bc96-5afaa376f90f)
 ![UseThatKnowledgeForGoodGregoryBrownGIF](https://github.com/NorfarahinJamaludin/NorfarahinJamaludin/assets/159423834/ad6b839f-c788-4479-bc96-5afaa376f90f)
 
 <!---
