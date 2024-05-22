@@ -69,11 +69,13 @@ Working on: ![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for
 
 ### ⚡ Fun fact : 
 
-I love music 🎶🎵🎧
+> I love music  
+## 🎶🎵🎧 ##
 
-I love to discover new things 
+> I love to discover new things 
 
-![UseThatKnowledgeForGoodGregoryBrownGIF](https://github.com/NorfarahinJamaludin/NorfarahinJamaludin/assets/159423834/ad6b839f-c788-4479-bc96-5afaa376f90f)
+<img src="https://github.com/NorfarahinJamaludin/NorfarahinJamaludin/assets/159423834/ad6b839f-c788-4479-bc96-5afaa376f90f" width="280" height="250">
+
 
 <!---
 NorfarahinJamaludin/Norfarahin21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -86,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi, I'm Farah. Skill or languages I learn
 
-| Languages & skill   |
+|    Skill &Languages |
 |---------------------|
 |    SQL              |
 |    Python           |
@@ -94,7 +96,7 @@ Hi, I'm Farah. Skill or languages I learn
 |    EXCEL            |
 |    Tableau          |
 |    Power Bi         |
-|    C++    |
+|    C++              |
 
 
 
